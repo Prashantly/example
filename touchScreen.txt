@@ -1,0 +1,1 @@
+touchScreen size is 300px
